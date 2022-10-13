@@ -1,5 +1,4 @@
 # Construindo um Esquema Conceitual para Banco De dados
-## Descrição do Desafio
 
 Criar um esquema conceitual do zero a partir da narrativa fornecida.
 
